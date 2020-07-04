@@ -55,6 +55,9 @@ Thumbs.db
 # OSX files
 .DS_Store
 
+.externalNativeBuild
+.cxx
+
 # Eclipse project files
 # .classpath
 # .project
